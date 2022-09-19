@@ -1,0 +1,57 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Day_map_room2.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "test",
+        "sunna1"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Day_map1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 249,
+                "y": 45
+            }
+        },
+        "Day_map_room2.tmx": {
+            "scale": 1.83825,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 200.4623963008296,
+                "y": 100.36719706242351
+            }
+        },
+        "Sunna Tileset.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        }
+    },
+    "last.imagePath": "E:/OneDrive - Harvard University/Summer 2022/Solar Game Boy Jam/Tileset",
+    "map.height": 25,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 50,
+    "openFiles": [
+        "Sunna Tileset.tsx",
+        "Day_map1.tmx",
+        "Day_map_room2.tmx"
+    ],
+    "project": "New Sunna.tiled-project",
+    "recentFiles": [
+        "Sunna Tileset.tsx",
+        "Day_map1.tmx",
+        "Day_map_room2.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
