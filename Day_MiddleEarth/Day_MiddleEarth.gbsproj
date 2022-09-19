@@ -1,5 +1,5 @@
 {
-    "name": "test",
+    "name": "Day_MiddleEarth",
     "author": "wang_",
     "_version": "3.0.0",
     "_release": "1",
@@ -10902,7 +10902,8 @@
                                 "x": 25,
                                 "y": 15,
                                 "direction": "down",
-                                "fadeSpeed": "2"
+                                "fadeSpeed": "2",
+                                "__collapse": false
                             }
                         }
                     ],
@@ -68667,9 +68668,9 @@
         }
     ],
     "settings": {
-        "startSceneId": "382961a1-e615-4b92-92a7-f1a791b50b7a",
-        "startX": 0,
-        "startY": 0,
+        "startSceneId": "94c18861-b352-4f49-a64d-52f2e3415077",
+        "startX": 22,
+        "startY": 30,
         "startMoveSpeed": 1,
         "startAnimSpeed": 15,
         "startDirection": "right",
@@ -68677,7 +68678,7 @@
         "showConnections": true,
         "worldScrollX": 0,
         "worldScrollY": 0,
-        "zoom": 100,
+        "zoom": 87.5,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
@@ -68705,9 +68706,9 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            681,
-            215,
-            215
+            484,
+            153,
+            153
         ],
         "showNavigator": true,
         "defaultFontId": "948c169c-8e4b-491c-a5f0-66898bbf45d9",
